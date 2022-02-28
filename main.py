@@ -7,6 +7,7 @@ from scoreboard import Scoreboard
 screen = Screen()
 turtle = Player()
 text = Scoreboard()
+
 screen.setup(width=600, height=600)
 screen.tracer(0)
 cars = []
